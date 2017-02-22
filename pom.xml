@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tig</groupId>
 	<artifactId>one</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>mule</packaging>
 	<name>Mule one Application</name>
 
@@ -20,7 +20,7 @@
 		<url>https://github.com/LokeshVermaG/one</url>
 		<developerConnection>scm:git:https://github.com/LokeshVermaG/one</developerConnection>
 		<connection>scm:git:https://github.com/LokeshVermaG/one</connection>
-		<tag>HEAD</tag>
+		<tag>v1.0.0</tag>
 	</scm>
 	<build>
 		<plugins>
